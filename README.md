@@ -5,6 +5,7 @@ I'm Sumedha, passionate about **technology** and **finance**, with a keen intere
 ## 🛠️ Skills  
 - **Programming Languages:** Python, C, JavaScript
 - **Tools:** ScikitLearn, Pandas, Numpy, Seaborn (w Matplotlib), Ollama, Langchain, Docling, Qdrant, Chainlit, React
+- **Utility:** VS Code, Git/Github, Docker
 
 ## 📚 Learning Goals  
 - Machine Learning
