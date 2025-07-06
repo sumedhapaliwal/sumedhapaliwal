@@ -1,16 +1,12 @@
 # Hey there 👋
 
-I'm Sumedha, passionate about **technology** and **finance**, with a keen interest in data analytics and machine learning. Currently, I'm diving deep into **Python** to strengthen my understanding of data-driven concepts and financial research.  
+I'm Sumedha, passionate about **technology** and **finance**, with a keen interest in data analytics and machine learning. Currently, I'm diving deep into **Python** to strengthen my understanding of machine learning and data science/analytics.  
 
 ## 🛠️ Skills  
-- **Programming Languages:** Python, C  
-- **Web Development (Learning):** HTML, CSS, JavaScript  
-- **Tools & Skills:** Canva, Strong Communication, Team Collaboration  
+- **Programming Languages:** Python, C, JavaScript
+- **Tools:** ScikitLearn, Pandas, Numpy, Seaborn (w Matplotlib), Ollama, Langchain, Docling, Qdrant, Chainlit, React
 
 ## 📚 Learning Goals  
-- Data Analytics  
-- Machine Learning  
-- Financial Research  
-
-## 🌟 What I Love  
-I enjoy applying my skills to solve real-world challenges and contribute meaningfully to tech and finance projects.  
+- Machine Learning
+- LLMs *wrt* Generative AI
+- Advanced Data Analytics
